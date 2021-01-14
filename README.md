@@ -11,3 +11,4 @@
 - react-image-gallery
 - react-hook-form
 - react-responsive
+- react-router-dom
