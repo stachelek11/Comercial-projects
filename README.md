@@ -1,4 +1,5 @@
 ## V8process.eu
+Project in Adobe XD and application implementation in React.js.
 ### https://v8process.eu/
 - React.js
 - Redux
