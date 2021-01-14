@@ -10,3 +10,4 @@
 - google-map-react (the company has not yet set up payments)
 - react-image-gallery
 - react-hook-form
+- react-responsive
